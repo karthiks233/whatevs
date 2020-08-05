@@ -6,7 +6,7 @@ turns=10
 f=0
 p=0
 print("Guess the right word")
-i=random.randint(0,1)  yoyoyoyo hehehehe
+i=random.randint(0,1)  
 print("_ "*len(w[i]))
 while turns>0:
       a=input("enter letter:  ")
